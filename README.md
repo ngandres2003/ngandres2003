@@ -27,6 +27,7 @@ I am a Computer Engineering student at Universidad José Antonio Páez, Venezuel
 ---
 
 🎯 **Currently exploring** modern web development, cybersecurity, and artificial intelligence.
+
 💡 **Always eager to learn** and contribute to open-source projects.  
 
 ### 📫 Get in touch:

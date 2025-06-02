@@ -4,49 +4,38 @@
 
 📍 Venezuela  
 📚 Computer Engineering @ Universidad José Antonio Páez  
-💻 Building efficient solutions with modern tech
+💻 Focused on building efficient, scalable solutions
 
 ## Tech Stack
 
-### Core
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vue,nodejs,express,nextjs,tailwind,postgres,mongodb" />
 </p>
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next" />
-</p>
+### Core Technologies
+- **JavaScript/TypeScript**: Building type-safe applications
+- **Python**: Backend services and scripting
+- **React/Vue**: Modern frontend architectures
+- **Node/Express**: Efficient server-side solutions
+- **Databases**: PostgreSQL & MongoDB for different data needs
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-## Focus Areas
-
-- Modern web architectures
-- Type-safe development
+## Currently Exploring
+- Microservices architecture
 - Performance optimization
-- Clean code principles
+- Modern CSS techniques
+- CI/CD pipelines
 
 ## Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/ngandres2003">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ngandres2003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+> "Simplicity is the soul of efficiency." — Austin Freeman
